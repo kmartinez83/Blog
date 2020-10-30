@@ -1,0 +1,111 @@
+h1{
+  font-style: oblique;
+}
+h3{
+  color: goldenrod;
+  font-style: italic;
+  text-align: left;
+  font-size: medium;
+}
+
+.mid_heading{
+  text-align: center;
+  color: black;
+}
+
+h2{
+  color: red;
+  font-style: oblique;
+}
+
+a {
+  color: red;
+}
+
+body{
+  background-color: #f1f2f6;
+}
+
+.view_recipie1{
+  color: red;
+}
+
+.txt1{
+  color:	#696969;
+  font-style: oblique;
+  font-size: large;
+}
+.breakfast{
+  border-radius: 50%;
+}
+.lunch{
+  border-radius: 50%;
+}
+.dinner{
+  border-radius: 50%;
+}
+
+.meals{
+  text-align: center;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.blogh2{
+  text-align: center;
+  
+}
+
+.oftheweek{
+  text-align: center;
+  color:black;
+}
+.aboutme{
+    max-width: 530px;
+    min-height: 550px;
+    background-color: rgba(235, 195, 195, 0.747);
+    border-radius: 15px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+
+}
+
+.me{
+  text-align: center;
+}
+
+.para_one{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.para_two{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.para_three{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.para_four{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pan{
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.insert{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+
+}
